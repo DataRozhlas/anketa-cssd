@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $.getJSON( "../data/data.json", function(data) {
+  $.getJSON( "https://dev.datarozhlas.cz/anketa-ano/data/data.json", function(data) {
     console.log(data);
     $(data).each(function(i) {
       if (this.o1.length>0) {$("<div class='respondent'></div>").appendTo("#anketa")};
