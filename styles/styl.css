@@ -23,10 +23,10 @@ hr {
 div.respondent {
   position: relative;
   float: left;
-  width: 157px;
+  width: 155px;
   height: 305px;
-  padding: 0px 5px 0px 5px;
-  margin: 5px 5px 5px 5px;
+  padding: 0px 3px 0px 3px;
+  margin: 5px 3px 5px 3px;
   border-bottom: thin dotted lightgrey;
 }
 
