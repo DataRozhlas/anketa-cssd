@@ -44,7 +44,7 @@ var data = [{"j":"Věra","p":"Adámková","s":"NEUTRÁLNÍ","o1":"Jednání se s
 {"j":"Ladislav","p":"Okleštěk","s":"BEZ ODPOVĚDI","o1":"","f":"https://www.psp.cz/eknih/cdrom/2017ps/eknih/2017ps/poslanci/i6172.jpg"},
 {"j":"Zuzana","p":"Ožanová","s":"NEUTRÁLNÍ","o1":"Budu podporovat postup, na kterém se shodne klub","f":"https://www.psp.cz/eknih/cdrom/2017ps/eknih/2017ps/poslanci/i6474.jpg"},
 {"j":"Jana","p":"Pastuchová","s":"BEZ ODPOVĚDI","o1":"","f":"https://www.psp.cz/eknih/cdrom/2017ps/eknih/2017ps/poslanci/i6225.jpg"},
-{"j":"Robert","p":"Pelikán","s":"NE","o1":"Už dříve se vyjádřil, že je pro něj nepřijatelné být ve vládě, která se bude jakkoli opírat o SPD.","f":"http://www.psp.cz/eknih/cdrom/2017ps/eknih/2017ps/poslanci/i6318.jpg"},
+{"j":"Robert","p":"Pelikán","s":"BEZ ODPOVĚDI","o1":"","f":"http://www.psp.cz/eknih/cdrom/2017ps/eknih/2017ps/poslanci/i6318.jpg"},
 {"j":"František","p":"Petrtýl","s":"NEUTRÁLNÍ","o1":"Počkám si na výsledky vyjednávání.","f":"http://www.psp.cz/eknih/cdrom/2017ps/eknih/2017ps/poslanci/i6409.jpg"},
 {"j":"Pavel","p":"Plzák","s":"NE","o1":"Jsem členem výboru a hlasoval jsem pro další kolo vyjednávání.","f":"http://www.psp.cz/eknih/cdrom/2017ps/eknih/2017ps/poslanci/i6171.jpg"},
 {"j":"Milan","p":"Pour","s":"ANO","o1":"Jsem proti koaliční vládě ANO s SPD a KSČM. Uměl bych si představit menšinovou vládu ANO s podporou KSČM a SPD. Pokud by předsednictvo uvažovalo o jiné alternativě, pak bych preferoval restart v jednáních s ČSSD.","f":"http://www.psp.cz/eknih/cdrom/2017ps/eknih/2017ps/poslanci/i6539.jpg"},
