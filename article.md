@@ -2,7 +2,7 @@ title: "Rozkol uvnitř ANO? Pro spolupráci s Okamurou a komunisty by zvedla ruk
 perex: "Jasnou zelenou možné vládní spolupráci ANO s komunisty a SPD dala jen zhruba čtvrtina poslanců hnutí, kteří odpovídali v anketě serveru iROZHLAS.cz a Radiožurnálu. Zbytek zákonodárců ANO se postavil proti, případně to odmítl komentovat, jejich odpovědi tak dokreslují čtvrteční rozhodnutí špiček hnutí vrátit se k jednání o vládě s ČSSD."
 published: "14. dubna 2018"
 # autoři se zadávají až v redakčním systému
-coverimg: "https://www.irozhlas.cz/sites/default/files/uploader/snemovna0703_danelov_180308-085817_rez.jpg"
+coverimg: "https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/snemovna0703_danelov_180308-085817_rez.jpg?itok=OCK3H0bg"
 coverimg_note: "Foto: Michalea Danelová"
 styles: []
 libraries: [jquery] #jquery-csv, d3, highcharts, datatables
