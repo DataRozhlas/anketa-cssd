@@ -1,6 +1,6 @@
 var data = [{"j":"Miroslav","p":"Andrt","s":"NE","k":"předseda ústecké organizace","o":"S ANO ano, ale bez trestně stíhané osoby.","f":"andrt.jpg"},
 {"j":"Jan","p":"Birke","s":"ANO","k":"předseda královéhradecké organizace a poslanec","o":"ČSSD by měla být součástí nové vlády. Je tu ale několik zásadník podmínek - třeba klauzule, která zajistí, že pokud bude člen vlády prvoinstančně odsouzen, okamžitě odstoupí, jinak vláda končí.","f":"birke.jpg"},
-{"j":"Tomáš","p":"Hanzel","s":"NEUTRÁLNÍ","k":"předseda moravskoslezské organizace a poslanec","o":"Nebudu to komentovat. Počkám si na to, co přinesou vyjednavači.","f":"hanzel.jpg"},
+{"j":"Tomáš","p":"Hanzel","s":"NEUTRÁLNÍ","k":"šéf moravskoslezské organizace a poslanec","o":"Nebudu to komentovat. Počkám si na to, co přinesou vyjednavači.","f":"hanzel.jpg"},
 {"j":"Milan","p":"Chovanec","s":"BEZ ODPOVĚDI","k":"předseda plzeňské organizace a poslanec","o":"","f":"chovanec.jpg"},
 {"j":"Jan","p":"Chvojka","s":"NEUTRÁLNÍ","k":"předseda pardubické organizace a poslanec","o":"Takto důležitou otázku bychom měli řešit na vnitrostranických fórech, a nikoli přes média.","f":"chvojka.jpg"},
 {"j":"Petr","p":"Krčál","s":"ANO","k":"předseda organizace na Vysočině","o":"Jsem pro vstup ČSSD do vlády.","f":"krcal.jpg"},
